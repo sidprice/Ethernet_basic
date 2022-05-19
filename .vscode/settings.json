@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+      "bleprph.h": "c",
+      "*.ipp": "c",
+      "*.contiki": "c"
+  },
+  "idf.adapterTargetName": "esp32",
+  "idf.flashType": "JTAG",
+  "idf.portWin": "COM24",
+  "idf.openOcdConfigs": [
+      "interface/ftdi/esp32_devkitj_v1.cfg",
+      "target/esp32.cfg"
+  ],
+  "idf.pythonBinPathWin": "C:\\Users\\sidpr\\.espressif\\python_env\\idf4.4_py3.8_env\\Scripts\\python.exe",
+  "idf.toolsPathWin": "C:\\Users\\sidpr\\.espressif"
+}
